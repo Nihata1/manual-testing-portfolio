@@ -24,5 +24,5 @@ The inventory page opens at `/inventory.html` and the product list is visible.
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Passed
+- **Actual result** — The inventory page opened at `/inventory.html` and the product list was visible.
