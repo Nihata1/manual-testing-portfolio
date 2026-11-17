@@ -23,5 +23,5 @@ The application rejects the login attempt and displays an invalid credentials me
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Passed
+- **Actual result** — The login attempt was rejected. The app displayed `Epic sadface: Username and password do not match any user in this service`.
