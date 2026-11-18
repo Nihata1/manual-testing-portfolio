@@ -22,5 +22,5 @@
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Passed
+- **Actual result** — The cart badge showed 1, and the cart listed Sauce Labs Bolt T-Shirt with a quantity of 1.
