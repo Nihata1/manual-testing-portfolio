@@ -26,6 +26,6 @@ Checkout blocks progression to the order overview and displays a validation mess
 
 ## Execution
 
-- **Status** — Failed
-- **Actual result** — checkout failed a error message indicating that Postal Code is required
+- **Status** — Passed
+- **Actual result** — Checkout stayed on `/checkout-step-one.html` and displayed a message indicating that the postal code is required.
 
