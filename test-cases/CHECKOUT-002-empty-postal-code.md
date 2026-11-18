@@ -26,5 +26,6 @@ Checkout blocks progression to the order overview and displays a validation mess
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Failed
+- **Actual result** — checkout failed a error message indicating that Postal Code is required
+
