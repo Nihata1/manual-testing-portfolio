@@ -27,5 +27,5 @@
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Passed
+- **Actual result** — The order overview listed one Sauce Labs Bolt T-Shirt. After clicking Finish, the confirmation page displayed “Thank you for your order!”
