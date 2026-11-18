@@ -24,5 +24,5 @@ The login page stays open and displays a validation message indicating that the 
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Passed
+- **Actual result** — The login page stayed open and displayed `Epic sadface: Username is required`.
