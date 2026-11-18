@@ -18,5 +18,5 @@
 
 ## Execution
 
-- **Status** — Not Run
-- **Actual result** — Pending execution
+- **Status** — Passed
+- **Actual result** — The cart was empty, and the item count badge disappeared after the last product was removed.
